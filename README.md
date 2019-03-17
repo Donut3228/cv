@@ -22,9 +22,9 @@ ___
 
 ### Личные проекты:
 
-1. Калькулятор на React [github](https://github.com/Donut3228/react-calculator)
-2. Приложение для вывода данных в табличном виде на React [github](https://github.com/Donut3228/react-table-app)
-3. Приложение на Python, которое использует уязвимость сайта [prnt.sc](https://prnt.sc), и скачивает скриншоты, загруженные пользователями, путем подбора различных url [github](https://github.com/Donut3228/prntsc-scrapper1)
+1. Калькулятор на React. [Github](https://github.com/Donut3228/react-calculator)
+2. Приложение для вывода данных в табличном виде на React. [Github](https://github.com/Donut3228/react-table-app)
+3. Приложение на Python, которое использует уязвимость сайта [prnt.sc](https://prnt.sc), и скачивает скриншоты, загруженные пользователями, путем подбора различных URL. [Github](https://github.com/Donut3228/prntsc-scrapper1)
 ___
 ### Часовой пояс: Москва(GMT+3)
 ___
