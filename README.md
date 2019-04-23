@@ -15,7 +15,14 @@ ___
 ### Образование:
 Полное среднее, а также начинал обучение в высшем учебном заведении, но после первого курса ушёл, т.к. это не оправдало мои ожидания(РГАУ МСХА им.Тимирязева фак.Экономики и финансов направление "Информационные системы и технологии в бизнесе")
 
-Закончил курс ["Introduction to HTML5"](https://www.coursera.org/account/accomplishments/certificate/5Y6WRQGQZMJG)
+Закончил курсы:
+*["Introduction to HTML5"](https://www.coursera.org/account/accomplishments/certificate/5Y6WRQGQZMJG)
+*["Introduction to CSS3"](https://www.coursera.org/account/accomplishments/certificate/6XSCK8CX557J)
+*["Interactivity with JavaScript"](https://www.coursera.org/account/accomplishments/certificate/YXTAHS9Q8NZW)
+*["Advanced Styling with Responsive Design"](https://www.coursera.org/account/accomplishments/certificate/LX57FX22EVJX)
+*["Building Web Applications in PHP"](https://www.coursera.org/account/accomplishments/certificate/PX9RDK5F72LH)
+*["Introduction to Structured Query Language (SQL)"](https://www.coursera.org/account/accomplishments/certificate/BW2KJPSU3XMC)
+
 
 Веб-разработке обучаюсь самостоятельно, используя различные материалы, которые нахожу в интернете.
 ___
