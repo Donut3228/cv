@@ -2,18 +2,16 @@
 ## Дмитрий Евгеньевич Пономарь, 23 лет, живу в Москве
 ___
 ### Навыки:
-1. HTML
-2. CSS
-3. JS (React)
-4. git
-5. Linux (базовые знания консольных команд)
-6. Photoshop/AdobeXD
-7. Java (Начальный уровень, понимание принципов ООП)
-8. Python (Фреймворк Django)
-9. SQL (базовые навыки)
+1. Python
+2. HTML5
+3. CSS
+4. JS (Vue)
+5. git
+6. Linux
+7. SQL
 ___
 ### Образование:
-Полное среднее, а также начинал обучение в высшем учебном заведении, но после первого курса ушёл, т.к. это не оправдало мои ожидания(РГАУ МСХА им.Тимирязева фак.Экономики и финансов направление "Информационные системы и технологии в бизнесе")
+Полное среднее, а также неоконченное высшее в РГАУ МСХА им.Тимирязева фак.Экономики и финансов направление "Информационные системы и технологии в бизнесе"
 
 Закончил курсы:
 * ["Introduction to HTML5"](https://www.coursera.org/account/accomplishments/certificate/5Y6WRQGQZMJG)
@@ -22,16 +20,12 @@ ___
 * ["Advanced Styling with Responsive Design"](https://www.coursera.org/account/accomplishments/certificate/LX57FX22EVJX)
 * ["Building Web Applications in PHP"](https://www.coursera.org/account/accomplishments/certificate/PX9RDK5F72LH)
 * ["Introduction to Structured Query Language (SQL)"](https://www.coursera.org/account/accomplishments/certificate/BW2KJPSU3XMC)
-
-
-Веб-разработке обучаюсь самостоятельно, используя различные материалы, которые нахожу в интернете.
 ___
 
-### Личные проекты:
-
-1. Калькулятор на React. [Github](https://github.com/Donut3228/react-calculator)
-2. Приложение для вывода данных в табличном виде на React. [Github](https://github.com/Donut3228/react-table-app)
-3. Приложение на Python, которое использует уязвимость сайта [prnt.sc](https://prnt.sc), и скачивает скриншоты, загруженные пользователями, путем подбора различных URL. [Github](https://github.com/Donut3228/prntsc-scrapper1)
+### Опыт работы:
+1. Июнь 2019 - Январь 2022 - Python разработчик в CarbonSoft
+2. Январь 2022 - Сентябрь 2022 - Тестировщик Python в CarbonSoft
+3. Октябрь 2022 - текущее время - специалист технической поддержки в Caterina Group
 ___
 ### Часовой пояс: Москва(GMT+3)
 ___
